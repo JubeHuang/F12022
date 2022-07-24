@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="332px" height="78px" viewBox="0 0 332 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>border</title>
+    <g id="Symbol" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbol/team" transform="translate(-12.000000, -2.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M344,2 L344,69 C344,74.9787016 339.230236,79.8433652 333.288407,79.9962926 L333,80 L12,80 L12,78 L333,78 C337.881803,78 341.855791,74.1131863 341.996163,69.2653623 L342,69 L342,2 L344,2 Z" id="border"></path>
+        </g>
+    </g>
+</svg>

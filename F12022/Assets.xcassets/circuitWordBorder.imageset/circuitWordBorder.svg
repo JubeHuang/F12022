@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="133px" height="54px" viewBox="0 0 133 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>circuitWordBorder</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Circuit" transform="translate(-168.000000, -675.000000)" stroke="#949498">
+            <path d="M300,675 L300,718 C300,723.522847 295.522847,728 290,728 L168,728" id="circuitWordBorder"></path>
+        </g>
+    </g>
+</svg>

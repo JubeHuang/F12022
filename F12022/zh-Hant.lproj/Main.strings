@@ -1,0 +1,252 @@
+
+/* Class = "UILabel"; text = "km"; ObjectID = "0Wl-is-oz3"; */
+"0Wl-is-oz3.text" = "km";
+
+/* Class = "UILabel"; text = "AZERBAIJAN"; ObjectID = "19E-XA-Ka3"; */
+"19E-XA-Ka3.text" = "AZERBAIJAN";
+
+/* Class = "UILabel"; text = "First Grand Prix"; ObjectID = "1LW-Pw-fok"; */
+"1LW-Pw-fok.text" = "First Grand Prix";
+
+/* Class = "UILabel"; text = "Race Distance"; ObjectID = "2Ue-8A-x8k"; */
+"2Ue-8A-x8k.text" = "Race Distance";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "3Mq-5i-gHU"; */
+"3Mq-5i-gHU.text" = "PTS";
+
+/* Class = "UITableViewController"; title = "Circuit"; ObjectID = "3yO-2o-54C"; */
+"3yO-2o-54C.title" = "Circuit";
+
+/* Class = "UILabel"; text = "AUSTRIA"; ObjectID = "4vB-Iq-mC8"; */
+"4vB-Iq-mC8.text" = "AUSTRIA";
+
+/* Class = "UILabel"; text = "303"; ObjectID = "59z-gh-mIe"; */
+"59z-gh-mIe.text" = "303";
+
+/* Class = "UITableViewController"; title = "Team"; ObjectID = "92p-vD-wOz"; */
+"92p-vD-wOz.title" = "Team";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "97D-aE-B6H"; */
+"97D-aE-B6H.text" = "PTS";
+
+/* Class = "UILabel"; text = "Red Bull Ring"; ObjectID = "AiO-9w-yUc"; */
+"AiO-9w-yUc.text" = "Red Bull Ring";
+
+/* Class = "UITabBarItem"; title = "Team"; ObjectID = "Ary-3f-jZf"; */
+"Ary-3f-jZf.title" = "Team";
+
+/* Class = "UILabel"; text = "F1 Teams 2022"; ObjectID = "DLR-oU-q7K"; */
+"DLR-oU-q7K.text" = "F1 Teams 2022";
+
+/* Class = "UILabel"; text = "Alpha \nRomeo"; ObjectID = "Dl4-QB-KWp"; */
+"Dl4-QB-KWp.text" = "Alpha \nRomeo";
+
+/* Class = "UINavigationItem"; title = "CIRCUIT"; ObjectID = "EdQ-De-nAs"; */
+"EdQ-De-nAs.title" = "CIRCUIT";
+
+/* Class = "UILabel"; text = "1970"; ObjectID = "EeI-IW-gBS"; */
+"EeI-IW-gBS.text" = "1970";
+
+/* Class = "UILabel"; text = "Ferrari"; ObjectID = "Fll-zc-2OP"; */
+"Fll-zc-2OP.text" = "Ferrari";
+
+/* Class = "UILabel"; text = "51"; ObjectID = "Fy7-ZY-Qdk"; */
+"Fy7-ZY-Qdk.text" = "51";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "HDP-CE-wRS"; */
+"HDP-CE-wRS.title" = "Back";
+
+/* Class = "UILabel"; text = "Circuit Gilles-Villeneuve"; ObjectID = "HaX-co-KaA"; */
+"HaX-co-KaA.text" = "Circuit Gilles-Villeneuve";
+
+/* Class = "UILabel"; text = "Alpha \nRomeo"; ObjectID = "I8e-hk-QxM"; */
+"I8e-hk-QxM.text" = "Alpha \nRomeo";
+
+/* Class = "UILabel"; text = "306.452"; ObjectID = "IYz-Pz-RkD"; */
+"IYz-Pz-RkD.text" = "306.452";
+
+/* Class = "UILabel"; text = "71"; ObjectID = "JD3-Ch-kAY"; */
+"JD3-Ch-kAY.text" = "71";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "Knq-73-Tiy"; */
+"Knq-73-Tiy.text" = "PTS";
+
+/* Class = "UIButton"; configuration.title = "04-05 JAN"; ObjectID = "Lgn-pB-g4e"; */
+"Lgn-pB-g4e.configuration.title" = "04-05 JAN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Lgn-pB-g4e"; */
+"Lgn-pB-g4e.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Alpine"; ObjectID = "MVM-Hs-n23"; */
+"MVM-Hs-n23.text" = "Alpine";
+
+/* Class = "UILabel"; text = "51"; ObjectID = "Nmq-qP-Fbf"; */
+"Nmq-qP-Fbf.text" = "51";
+
+/* Class = "UILabel"; text = "Silverstone Circuit"; ObjectID = "Oke-yy-fNl"; */
+"Oke-yy-fNl.text" = "Silverstone Circuit";
+
+/* Class = "UIButton"; configuration.title = "10-12 JUN"; ObjectID = "Pml-Vm-vZp"; */
+"Pml-Vm-vZp.configuration.title" = "10-12 JUN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pml-Vm-vZp"; */
+"Pml-Vm-vZp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "QSf-tA-Nmj"; */
+"QSf-tA-Nmj.text" = "PTS";
+
+/* Class = "UILabel"; text = "Alpha \nRomeo"; ObjectID = "QeP-hK-cR7"; */
+"QeP-hK-cR7.text" = "Alpha \nRomeo";
+
+/* Class = "UILabel"; text = "51"; ObjectID = "RCv-aU-42p"; */
+"RCv-aU-42p.text" = "51";
+
+/* Class = "UINavigationItem"; title = "AUSTRIA"; ObjectID = "RZd-l6-Trf"; */
+"RZd-l6-Trf.title" = "AUSTRIA";
+
+/* Class = "UILabel"; text = "AUSTRIA"; ObjectID = "SI6-rJ-Tyd"; */
+"SI6-rJ-Tyd.text" = "AUSTRIA";
+
+/* Class = "UILabel"; text = "81"; ObjectID = "ShN-of-gaP"; */
+"ShN-of-gaP.text" = "81";
+
+/* Class = "UILabel"; text = "2023"; ObjectID = "Sx4-bY-fEf"; */
+"Sx4-bY-fEf.text" = "2023";
+
+/* Class = "UILabel"; text = "Red Bull Ring"; ObjectID = "T3T-Cj-E99"; */
+"T3T-Cj-E99.text" = "Red Bull Ring";
+
+/* Class = "UILabel"; text = "51"; ObjectID = "TPH-Sd-6KO"; */
+"TPH-Sd-6KO.text" = "51";
+
+/* Class = "UIButton"; configuration.title = "18-19 JAN"; ObjectID = "TqB-4x-fZe"; */
+"TqB-4x-fZe.configuration.title" = "18-19 JAN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TqB-4x-fZe"; */
+"TqB-4x-fZe.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Red Bull Ring"; ObjectID = "Tqu-UZ-jMB"; */
+"Tqu-UZ-jMB.text" = "Red Bull Ring";
+
+/* Class = "UILabel"; text = "Circuit Length"; ObjectID = "U1Y-yz-yZv"; */
+"U1Y-yz-yZv.text" = "Circuit Length";
+
+/* Class = "UILabel"; text = "McLaren"; ObjectID = "UmJ-40-xRF"; */
+"UmJ-40-xRF.text" = "McLaren";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "VuT-5B-gMu"; */
+"VuT-5B-gMu.text" = "PTS";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "W0l-DQ-CqO"; */
+"W0l-DQ-CqO.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; configuration.title = "22-23 JUL"; ObjectID = "W6I-Q7-lCU"; */
+"W6I-Q7-lCU.configuration.title" = "22-23 JUL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "W6I-Q7-lCU"; */
+"W6I-Q7-lCU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "XgR-Xs-dFU"; */
+"XgR-Xs-dFU.text" = "PTS";
+
+/* Class = "UILabel"; text = "Alpha \nRomeo"; ObjectID = "Y1j-ya-YHN"; */
+"Y1j-ya-YHN.text" = "Alpha \nRomeo";
+
+/* Class = "UIButton"; configuration.title = "08-10 JUL"; ObjectID = "YbD-iD-QXE"; */
+"YbD-iD-QXE.configuration.title" = "08-10 JUL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YbD-iD-QXE"; */
+"YbD-iD-QXE.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "15-16 JUL"; ObjectID = "Ysk-z2-fVO"; */
+"Ysk-z2-fVO.configuration.title" = "15-16 JUL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ysk-z2-fVO"; */
+"Ysk-z2-fVO.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "81"; ObjectID = "Yyj-L8-ojE"; */
+"Yyj-L8-ojE.text" = "81";
+
+/* Class = "UILabel"; text = "2022"; ObjectID = "Z0p-FU-O2J"; */
+"Z0p-FU-O2J.text" = "2022";
+
+/* Class = "UILabel"; text = "AUSTRIA"; ObjectID = "Z3q-To-wUR"; */
+"Z3q-To-wUR.text" = "AUSTRIA";
+
+/* Class = "UILabel"; text = "Mercedes"; ObjectID = "adF-cj-OT6"; */
+"adF-cj-OT6.text" = "Mercedes";
+
+/* Class = "UILabel"; text = "Number of Laps"; ObjectID = "cL0-7F-oLd"; */
+"cL0-7F-oLd.text" = "Number of Laps";
+
+/* Class = "UILabel"; text = "Carlos Sainz"; ObjectID = "dSa-IE-d4A"; */
+"dSa-IE-d4A.text" = "Carlos Sainz";
+
+/* Class = "UINavigationItem"; title = "PROFILE"; ObjectID = "dtC-gF-Rbl"; */
+"dtC-gF-Rbl.title" = "PROFILE";
+
+/* Class = "UILabel"; text = "4.318"; ObjectID = "f8w-wb-MfE"; */
+"f8w-wb-MfE.text" = "4.318";
+
+/* Class = "UILabel"; text = "Red Bull Ring"; ObjectID = "fDu-Yl-YhH"; */
+"fDu-Yl-YhH.text" = "Red Bull Ring";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "hFI-YG-oTJ"; */
+"hFI-YG-oTJ.text" = "PTS";
+
+/* Class = "UILabel"; text = "237"; ObjectID = "huP-oS-Z5J"; */
+"huP-oS-Z5J.text" = "237";
+
+/* Class = "UILabel"; text = "AUSTRIA"; ObjectID = "i9b-5q-tJF"; */
+"i9b-5q-tJF.text" = "AUSTRIA";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "iOq-u0-4VJ"; */
+"iOq-u0-4VJ.text" = "km";
+
+/* Class = "UILabel"; text = "Baku City Circuit"; ObjectID = "jZf-P7-NbN"; */
+"jZf-P7-NbN.text" = "Baku City Circuit";
+
+/* Class = "UILabel"; text = "GREAT BRITAIN"; ObjectID = "m1u-q9-R3q"; */
+"m1u-q9-R3q.text" = "GREAT BRITAIN";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "nJ6-CP-5ak"; */
+"nJ6-CP-5ak.text" = "PTS";
+
+/* Class = "UILabel"; text = "Red Bull Ring"; ObjectID = "os7-mv-Zrn"; */
+"os7-mv-Zrn.text" = "Red Bull Ring";
+
+/* Class = "UILabel"; text = "1:05.619"; ObjectID = "pvS-gv-8Ft"; */
+"pvS-gv-8Ft.text" = "1:05.619";
+
+/* Class = "UILabel"; text = "CANADA"; ObjectID = "qgk-d3-8PV"; */
+"qgk-d3-8PV.text" = "CANADA";
+
+/* Class = "UILabel"; text = "Red Bull\nRacing"; ObjectID = "t6e-pG-3oU"; */
+"t6e-pG-3oU.text" = "Red Bull\nRacing";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "tWQ-3N-zpn"; */
+"tWQ-3N-zpn.text" = "PTS";
+
+/* Class = "UILabel"; text = "Lap Record"; ObjectID = "u0M-r9-VGt"; */
+"u0M-r9-VGt.text" = "Lap Record";
+
+/* Class = "UITabBarItem"; title = "Circuit"; ObjectID = "uaM-up-Cny"; */
+"uaM-up-Cny.title" = "Circuit";
+
+/* Class = "UILabel"; text = "Alpha \nRomeo"; ObjectID = "wGS-Ee-GUV"; */
+"wGS-Ee-GUV.text" = "Alpha \nRomeo";
+
+/* Class = "UILabel"; text = "51"; ObjectID = "wj0-a9-HPw"; */
+"wj0-a9-HPw.text" = "51";
+
+/* Class = "UILabel"; text = "359"; ObjectID = "xOC-N5-5Wm"; */
+"xOC-N5-5Wm.text" = "359";
+
+/* Class = "UILabel"; text = "PTS"; ObjectID = "yux-HR-CFA"; */
+"yux-HR-CFA.text" = "PTS";
+
+/* Class = "UIButton"; configuration.title = "08-10 MAY"; ObjectID = "zRv-oP-3ke"; */
+"zRv-oP-3ke.configuration.title" = "08-10 MAY";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zRv-oP-3ke"; */
+"zRv-oP-3ke.normalTitle" = "Button";
